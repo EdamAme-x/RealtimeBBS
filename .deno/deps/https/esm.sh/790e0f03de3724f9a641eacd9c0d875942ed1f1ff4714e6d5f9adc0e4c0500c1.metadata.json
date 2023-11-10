@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "vary": "Origin, Accept-Encoding",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "823b1c1a5fa4c698-SEA",
+    "date": "Fri, 10 Nov 2023 03:11:43 GMT",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=9OKdGF8u4JRlR%2B4ye1Smp4ptoixyweveBdZ8qSGfzW%2BBcH3OTPCwskybZ9gCCkvwQnxjEwXXYTf9wGmUpInwSRcNLESKa1PTCTfozxknj0ZLVegSJkAsSnU%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-content-source": "esm-worker",
+    "content-type": "application/javascript; charset=utf-8",
+    "access-control-allow-methods": "*",
+    "server": "cloudflare",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "url": "https://esm.sh/stable/preact@10.18.2/denonext/preact.mjs",
+  "now": {
+    "secs_since_epoch": 1699585903,
+    "nanos_since_epoch": 900104317
+  }
+}

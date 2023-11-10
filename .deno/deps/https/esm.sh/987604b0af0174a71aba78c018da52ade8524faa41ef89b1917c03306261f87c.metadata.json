@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "x-content-source": "esm-worker",
+    "vary": "Origin, User-Agent, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "x-typescript-types": "https://esm.sh/v128/preact@10.18.2/src/index.d.ts",
+    "date": "Fri, 10 Nov 2023 03:11:43 GMT",
+    "content-type": "application/javascript; charset=utf-8",
+    "x-esm-id": "stable/preact@10.18.2/denonext/preact.mjs",
+    "server": "cloudflare",
+    "cache-control": "public, max-age=31536000, immutable",
+    "access-control-allow-methods": "*",
+    "access-control-expose-headers": "X-Esm-Id, X-TypeScript-Types",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=sHmsNFHk8P2HxYKM5IF1ZQfx5yGrg1ZQZpZL6Tk3Pp6GikM8J8E%2BFyfSGbzgXMZJFLZ%2BKY2crFMaTbcHGfIwYAqd%2B1y5alkoVGIvzFcmF5SeyCAFMRkmXdk%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "cf-ray": "823b1c18fea6c698-SEA",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "url": "https://esm.sh/preact@10.18.2",
+  "now": {
+    "secs_since_epoch": 1699585903,
+    "nanos_since_epoch": 716997801
+  }
+}

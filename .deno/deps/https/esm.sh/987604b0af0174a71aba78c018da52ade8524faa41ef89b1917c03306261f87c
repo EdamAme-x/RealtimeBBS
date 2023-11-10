@@ -1,0 +1,2 @@
+/* esm.sh - preact@10.18.2 */
+export * from "/stable/preact@10.18.2/denonext/preact.mjs";

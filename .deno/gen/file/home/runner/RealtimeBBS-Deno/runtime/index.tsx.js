@@ -1,0 +1,6 @@
+import React from 'https://esm.sh/react';
+import { Layout } from "./layout.tsx";
+export function Index() {
+    return /*#__PURE__*/ React.createElement(Layout, null, "hello!!");
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZpbGU6Ly8vaG9tZS9ydW5uZXIvUmVhbHRpbWVCQlMtRGVuby9ydW50aW1lL2luZGV4LnRzeCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAnaHR0cHM6Ly9lc20uc2gvcmVhY3QnO1xuaW1wb3J0IHsgTGF5b3V0IH0gZnJvbSBcIi4vbGF5b3V0LnRzeFwiXG5cbmV4cG9ydCBmdW5jdGlvbiBJbmRleCgpIHtcbiAgcmV0dXJuIDxMYXlvdXQ+XG4gICAgaGVsbG8hIVxuICA8L0xheW91dD5cbn0iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxXQUFXLHVCQUF1QjtBQUN6QyxTQUFTLE1BQU0sUUFBUSxlQUFjO0FBRXJDLE9BQU8sU0FBUyxRQUFRO0lBQ3RCLHFCQUFPLG9CQUFDLGNBQU87QUFHakIsQ0FBQyJ9

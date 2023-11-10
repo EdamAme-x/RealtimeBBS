@@ -1,0 +1,15 @@
+{
+  content: [
+    {
+      title: "雑談スレ",
+      posts: [
+        {
+          name: "★ 管理人",
+          content: "こんにちは！",
+          date: 1699597649217,
+          ip: "x.x.x.x"
+        }
+      ]
+    }
+  ]
+}

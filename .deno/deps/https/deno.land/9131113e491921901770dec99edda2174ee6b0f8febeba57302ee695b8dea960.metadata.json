@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "cross-origin-resource-policy": "same-origin",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "x-deno-warning": "Implicitly using latest version (v3.10.0-rc.2) for https://deno.land/x/hono/mod.ts",
+    "x-frame-options": "DENY",
+    "date": "Fri, 10 Nov 2023 02:55:59 GMT",
+    "via": "http/2 edgeproxy",
+    "server": "deno/gcp-us-west1",
+    "cross-origin-embedder-policy": "same-origin",
+    "access-control-allow-origin": "*",
+    "vary": "accept",
+    "x-content-type-options": "nosniff",
+    "cross-origin-opener-policy": "same-origin",
+    "location": "/x/hono@v3.10.0-rc.2/mod.ts",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload"
+  },
+  "url": "https://deno.land/x/hono/mod.ts",
+  "now": {
+    "secs_since_epoch": 1699584960,
+    "nanos_since_epoch": 45888657
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=600",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=A4J4xcA04zixC53yWL6Si8pjm1GQCWZp1FxHWViljCBOeJL26YzGY9yyO8WXTcQJpHyD6vkJTQkUy3afJRJf6G2pYpFHcVKWjum%2BC%2Fswb69BoFJXgIQHWN8%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "access-control-allow-methods": "*",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+    "date": "Fri, 10 Nov 2023 03:10:24 GMT",
+    "cf-ray": "823b1a26e856c698-SEA",
+    "location": "https://esm.sh/react-dom@18.2.0/server",
+    "content-length": "0",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "vary": "Origin, Accept-Encoding"
+  },
+  "url": "https://esm.sh/react-dom/server",
+  "now": {
+    "secs_since_epoch": 1699585824,
+    "nanos_since_epoch": 229526682
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "cross-origin-resource-policy": "same-origin",
+    "server": "deno/gcp-us-west1",
+    "cross-origin-opener-policy": "same-origin",
+    "access-control-allow-origin": "*",
+    "cross-origin-embedder-policy": "same-origin",
+    "referrer-policy": "strict-origin-when-cross-origin",
+    "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+    "x-deno-warning": "Implicitly using latest version (v3.10.0-rc.2) for https://deno.land/x/hono/middleware.ts",
+    "location": "/x/hono@v3.10.0-rc.2/middleware.ts",
+    "x-frame-options": "DENY",
+    "date": "Fri, 10 Nov 2023 03:02:13 GMT",
+    "x-content-type-options": "nosniff",
+    "vary": "accept",
+    "via": "http/2 edgeproxy"
+  },
+  "url": "https://deno.land/x/hono/middleware.ts",
+  "now": {
+    "secs_since_epoch": 1699585333,
+    "nanos_since_epoch": 123757189
+  }
+}

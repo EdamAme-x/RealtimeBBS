@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cf-ray": "823b1d7dec87c698-SEA",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=8FbCRAc8QQgsmY%2BSHfA3sJeloS5iG7AFvild%2FGwHze9%2BClH2zGjnGx%2BPjeLIj2yiyKvJggFSM%2BLYIYqHQwUJ4t4kkzQ66Czkv1WC667aA7FKSMsOqWrbpPk%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "content-length": "0",
+    "access-control-allow-origin": "*",
+    "server": "cloudflare",
+    "vary": "Origin, Accept-Encoding",
+    "cache-control": "public, max-age=600",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "date": "Fri, 10 Nov 2023 03:12:40 GMT",
+    "location": "https://esm.sh/react@18.2.0",
+    "access-control-allow-methods": "*",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/react",
+  "now": {
+    "secs_since_epoch": 1699585960,
+    "nanos_since_epoch": 798269465
+  }
+}

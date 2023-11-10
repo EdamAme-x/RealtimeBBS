@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cf-ray": "823b1cfc8896c698-SEA",
+    "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=iJIru8cPCGSMhiS4y6h1pu5kFIgM07m6olQh6kRj%2FYVzH3GoDJpbOQaiDP1gTel8ZefZ1zX2vekcvaDfvrd%2BF8qTOxMKk4YwRpQdKwhZIAz%2FzUdnVGR6Bsg%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+    "server": "cloudflare",
+    "date": "Fri, 10 Nov 2023 03:12:20 GMT",
+    "access-control-allow-methods": "*",
+    "vary": "Origin, Accept-Encoding",
+    "content-length": "0",
+    "access-control-allow-origin": "*",
+    "location": "https://esm.sh/hono@3.9.2/jsx-runtime/mod.ts",
+    "cache-control": "public, max-age=600",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+  },
+  "url": "https://esm.sh/hono/jsx-runtime/mod.ts",
+  "now": {
+    "secs_since_epoch": 1699585940,
+    "nanos_since_epoch": 37895879
+  }
+}

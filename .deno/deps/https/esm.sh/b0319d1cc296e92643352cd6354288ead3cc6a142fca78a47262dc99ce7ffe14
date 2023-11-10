@@ -1,0 +1,3 @@
+/* esm.sh - preact@10.18.2/jsx-runtime */
+import "/stable/preact@10.18.2/denonext/preact.mjs";
+export * from "/stable/preact@10.18.2/denonext/jsx-runtime.js";

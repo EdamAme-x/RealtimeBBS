@@ -1,0 +1,5 @@
+import React from 'https://esm.sh/react';
+export function Footer() {
+    return /*#__PURE__*/ React.createElement("footer", null);
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZpbGU6Ly8vaG9tZS9ydW5uZXIvUmVhbHRpbWVCQlMtRGVuby9ydW50aW1lL2NvbXBvbmVudHMvZm9vdGVyLnRzeCJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSAnaHR0cHM6Ly9lc20uc2gvcmVhY3QnO1xuXG5leHBvcnQgZnVuY3Rpb24gRm9vdGVyKCkge1xuICByZXR1cm4gPGZvb3Rlcj48L2Zvb3Rlcj5cbn0iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxXQUFXLHVCQUF1QjtBQUV6QyxPQUFPLFNBQVMsU0FBUztJQUN2QixxQkFBTyxvQkFBQztBQUNWLENBQUMifQ==
